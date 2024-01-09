@@ -1,0 +1,6 @@
+{
+  "settingsInheritedFrom": "samq-ghdemo/whitesource-config@main",
+  "scanSettings": {
+    "enableReachability": false
+  }
+}
